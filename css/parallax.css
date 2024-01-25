@@ -49,7 +49,7 @@ hr.content-divider {
 }
 
 #parallax-1 {
-    background: url(media/team-hai.JPG);
+    background: url(media/team-hai.jpeg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -62,7 +62,7 @@ hr.content-divider {
 }
 
 #parallax-2 {
-  background: url(media/team-ai.jpg);
+  background: url(media/team-ai.jpeg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -75,7 +75,7 @@ hr.content-divider {
 }
 
 #parallax-3 {
-  background: url(media/robots.jpg);
+  background: url(media/robots.jpeg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
